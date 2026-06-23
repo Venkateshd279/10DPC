@@ -1,0 +1,4 @@
+Hello, this is a sample text file.
+Hello, this is another line.
+
+This line is appended to the file.
